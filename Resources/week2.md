@@ -1,4 +1,4 @@
-# Week 34 - Resources 
+# Week 35 - Resources 
 
 [:house: Main page](https://github.com/kokchun/AI-intro-AI22)
 
