@@ -10,7 +10,7 @@ For detailed time schedule [click here](https://github.com/kokchun/AI-intro-AI22
 | Week     | Content                                   |
 | -------- | ----------------------------------------- |
 | [34][w1] | intro, concepts, AI workflow              |
-| [35][w2] | history, markdown                         |
+| [35][w2] | history, markdown, seminar preparations   |
 | [36][w3] | **seminar** (monday), **report** (friday) |
 
 [w1]: https://github.com/kokchun/AI-intro-AI22/blob/main/Resources/week1.md
