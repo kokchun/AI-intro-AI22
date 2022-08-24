@@ -7,11 +7,11 @@ This is a short popular science introduction course to Artificial Intelligence. 
 
 For detailed time schedule [click here](https://github.com/kokchun/AI-intro-AI22/blob/main/Schedule_Intro_AI.md)
 
-| Week     | Content                                   |
-| -------- | ----------------------------------------- |
-| [34][w1] | intro, concepts, AI workflow              |
-| [35][w2] | history, markdown, seminar preparations   |
-| [36][w3] | **seminar** (monday), **report** (friday) |
+| Week     | Content                                    |
+| -------- | ------------------------------------------ |
+| [34][w1] | intro, concepts, AI workflow               |
+| [35][w2] | history, markdown, seminar preparations    |
+| [36][w3] | **seminar** (tuesday), **report** (friday) |
 
 [w1]: https://github.com/kokchun/AI-intro-AI22/blob/main/Resources/week1.md
 
