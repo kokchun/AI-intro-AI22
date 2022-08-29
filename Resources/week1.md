@@ -27,6 +27,9 @@
 - [AI news][ai_news]
 - [AI weekly newsletter][ai_weekly]
 - [Markdown basics][markdown_basics]
+- [AI Sweden - things going around in AI in Sweden](https://www.ai.se/en)
+- [TenFifty podcast - AI på riktigt](https://tenfifty.io/sv/tenfiftys-podcast/)
+- [MyAI - community for AI - from AI Sweden](https://my.ai.se/)
 
 [ml_ibm]: https://www.ibm.com/cloud/learn/machine-learning
 [ai_news]: https://artificialintelligence-news.com/#
